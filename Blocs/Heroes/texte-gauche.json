@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "Texte Gauche",
+  "content": "<!-- wp:cover {\"dimRatio\":70,\"overlayColor\":\"dark\",\"isUserOverlayColor\":true,\"minHeight\":80,\"minHeightUnit\":\"vh\",\"sizeSlug\":\"large\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-cover\" style=\"min-height:80vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-dark-background-color has-background-dim-70 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:group {\"layout\":{\"type\":\"constrained\",\"justifyContent\":\"left\",\"contentSize\":\"350px\"}} -->\n<div class=\"wp-block-group\"><!-- wp:post-title {\"level\":1} /-->\n\n<!-- wp:paragraph -->\n<p>Vel ipsum autem ad officiis saepe non voluptas iusto et eveniet consequatur nam mollitia tempora quo officiis ullam. Aut consequatur possimus non natus perferendis non autem eveniet.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\">CTA</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div>\n<!-- /wp:group --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}

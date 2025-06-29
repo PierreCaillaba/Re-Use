@@ -60,7 +60,7 @@ Afin d'intégrer les compositions déjà préparées, il suffit de les télécha
 ## 💡 Intégration du thème
 
 Une fois le fichier theme.json ajouter à la racine du dossier du thème, pour l'intégrer à votre projet WordPress, vous avez deux solutions:
--Soit en allant dans les fichiers de votre site l'ajouter à l'endroit suivant : Nom du projet -> app -> public -> wp-content -> themes,
+- Soit en allant dans les fichiers de votre site l'ajouter à l'endroit suivant : Nom du projet -> app -> public -> wp-content -> themes,
 - Soit en zippant le dossier et en l'ajoutant via l'interface des thèmes de WordPress.
 
 ---
